@@ -12,3 +12,7 @@
 	path = xmarts/account-multi-pay
 	url = git@github.com:xmarts/account-multi-pay.git
 	branch = 15.0
+[submodule "xmarts/xma-shipment-report"]
+	path = xmarts/xma-shipment-report
+	url = git@github.com:xmarts/xma-shipment-report.git
+	branch = 15.0
