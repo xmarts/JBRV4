@@ -2,3 +2,8 @@
 	path = xmarts/xma-orchard-catalog
 	url = git@github.com:xmarts/xma-orchard-catalog.git
 	branch = 15.0
+
+[submodule "xmarts/xma-management-collection-price"]
+	path = xmarts/xma-management-collection-price
+	url = git@github.com:xmarts/xma-management-collection-price.git
+	branch = 15.0
