@@ -7,3 +7,8 @@
 	path = xmarts/xma-management-collection-price
 	url = git@github.com:xmarts/xma-management-collection-price.git
 	branch = 15.0
+
+[submodule "xmarts/account-multipay"]
+	path = xmarts/account-multipay
+	url = git@github.com:xmarts/account-multi-pay.git
+	branch = 15.0
