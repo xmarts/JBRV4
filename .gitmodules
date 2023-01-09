@@ -7,3 +7,8 @@
 	path = xmarts/xma-management-collection-price
 	url = git@github.com:xmarts/xma-management-collection-price.git
 	branch = 15.0
+
+[submodule "xmarts/xma-shipment-report"]
+	path = xmarts/xma-shipment-report
+	url = git@github.com:xmarts/xma-shipment-report.git
+	branch = 15.0
